@@ -1,0 +1,60 @@
+.title
+{
+	color: green;
+	font-size: 40px;
+	text-align: center;
+}
+
+.description
+{
+	color: yellow;
+	text-align: center;
+	font-size: 20px;
+	border-left-style: dotted;
+	border-right-style: dotted;
+	border-top-style: dotted;
+
+	padding-right: 200px;
+	padding-left: 100px;
+	background-color: green;
+	width: 60%;
+}
+
+.image{
+	width: 40 px;
+	position: relative;
+	left: 20 px;
+
+}
+.chart{
+	width: 1000px;
+	height: 1000px ;
+}
+.circleclass{
+     stroke:green;
+     fill:pink;
+     stroke-width:5 px;
+     cx:200px;
+     cy:100px;
+
+}
+.ellipseclass{
+     stroke:green;
+     fill:blue;
+     stroke-width:10 px;
+     cx:200px;
+     cy:180px;
+     rx:20px; 
+     ry:50px;
+
+}
+.lineclass{
+     stroke:green;
+     fill:blue;
+     stroke-width:10px;/*
+     x1:20px;
+     y1:20px;
+     x2:400px; 
+     y2:400px;*/
+
+}

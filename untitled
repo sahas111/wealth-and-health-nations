@@ -1,0 +1,6 @@
+var circle = canvas.append('circle');
+	circle.attr("cx", "150");
+	circle.attr("cy", "50");
+	circle.attr("r", "40");
+	circle.attr("fill", "pink");
+	circle.attr("stroke", "black");
